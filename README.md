@@ -10,3 +10,4 @@ siem-log-parser/
 │   └── iocs.json
 └── requirements.txt
 
+
